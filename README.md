@@ -1,5 +1,5 @@
 # Send-memes-to-a-discord-server-with-Python
-Simple guide to set up a python bot that dowload images from a specific subreddit and send it to a discord server channel
+Simple guide to set up a python bot that dowload images from a specific subreddit and send it to a discord server channel.
 
 ## BEFORE YOU START
   Before you start is you must set up ruffly 2 things: a python discord bot and a reddit account.
@@ -13,7 +13,7 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
   Now we need to set up a reddit account to scrape subreddits for memes, if you are not familiar I recommend [this video](https://www.youtube.com/watch?v=gIZJQmX-55U).
   
 ### requirements
-  You will need praw, urllib, time, os
+  You will need praw, urllib, time, os, discord.
 
 ## SET UP
   Clone the repo or copy the files or whatever.
@@ -24,4 +24,4 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
 
 ## RUN
   Run bot.py then when the bot is online 
-  Then you will be able to get memes calling your meme function from your discord server by writing _.memes (name of the subreddit)_
+  Then you will be able to get memes calling your meme function from your discord server by writing _.memes (name of the subreddit)_.
