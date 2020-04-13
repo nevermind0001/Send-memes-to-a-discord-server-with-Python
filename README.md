@@ -29,3 +29,14 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
 ## RUN
   Run bot.py then when the bot is online 
   Then you will be able to get memes calling your meme function from your discord server by writing _.memes (name of the subreddit)_.
+
+### Example
+  To execute the script follow these steps:
+      
+      -python bot.py
+      
+      -From discord:
+      
+      -.memes dankmemes
+      
+      
