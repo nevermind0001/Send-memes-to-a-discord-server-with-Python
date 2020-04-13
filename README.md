@@ -10,7 +10,7 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
   If you are familiar with discord bots or you own one you can skip this part.
 
 ### reddit account (praw)
-  Now we need to set up a reddit account to scrape subreddits for memes, if you are not familiar I recommend [this video]   (https://www.youtube.com/watch?v=gIZJQmX-55U).
+  Now we need to set up a reddit account to scrape subreddits for memes, if you are not familiar I recommend [this video](https://www.youtube.com/watch?v=gIZJQmX-55U).
   
 ### requirements
   You will need praw, urllib, time, os
