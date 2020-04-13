@@ -35,7 +35,7 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
       
       -python bot.py
       
-      -From discord:
+  From discord:
       
       -.memes dankmemes
       
