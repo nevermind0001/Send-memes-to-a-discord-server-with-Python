@@ -19,8 +19,12 @@ Simple guide to set up a python bot that dowload images from a specific subreddi
   Clone the repo or copy the files or whatever.
   
   _Remember to:_
+  
     -Insert your bot token at the and of token at the end of bot.py
+    
     -Fill meme.py with your reddit account information
+    
+    -Update the directory where the memes will be saved if you change it
 
 ## RUN
   Run bot.py then when the bot is online 
